@@ -1,4 +1,4 @@
-## `Note: Not maintained`
+## `Note: Not maintained currently`
 # [Flayro](https://flayro.com)
 Subscribe to surprise. Get a monthly/yearly subscription for curated gifts hand picked for your taste.
 
